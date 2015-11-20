@@ -4,7 +4,7 @@
 import json
 import requests
 
-api = input("Por favor, digite o endereço de acesso da API.")
+api = input("Digite o endereço de acesso da API:")
 
 requisicao = requests.get(api)
 
