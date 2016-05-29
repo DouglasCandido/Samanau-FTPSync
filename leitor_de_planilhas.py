@@ -1,5 +1,4 @@
-# Author: Douglas Cândido
-# coding: utf-8
+# -*- coding: utf-8 -*-
 
 import xlrd
 

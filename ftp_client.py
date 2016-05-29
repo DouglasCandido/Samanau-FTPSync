@@ -1,5 +1,4 @@
-﻿# Author: Douglas Cândido
-# coding: UTF-8
+﻿# -*- coding: utf-8 -*-
 
 def downloadFile(file_name):
 
